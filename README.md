@@ -15,3 +15,12 @@ To leverage a robust dataset spanning 4 years (2021-2024) to calculate key finan
 	Customer Retention & Value :- Analysis identified a significant Pareto Principle effect, with a small segment of customers (e.g., Top 5 Customers by Profit) driving a disproportionately high amount of the total profit. Future marketing efforts should prioritize retaining and upselling this key demographic.
 
 	Year-over-Year Growth (Profit Trend) :- Profit demonstrates a consistent upward trend over the four-year period, growing from ~$49.6K in 2021 to ~$96.7K in 2024 (assuming the data contains four full years and this is the last recorded annual profit). This validates the current business model and justifies scalable expansion.
+
+
+# Key Financial Metrics (The Results)
+These are the most impactful numbers derived from your data.
+  Metric    	                  Value            	                        Insight
+Total Sales	               $1,928,887.86	      The total gross revenue generated over the project's 4-year period.
+Total Profit	             $247,961.52        	The cumulative net profit achieved across all transactions.
+Overall Profit Margin	     12.86%	              Calculated as (Total Profit / Total Sales), representing the overall profitability of the business operations.
+
