@@ -2,7 +2,8 @@
 To leverage a robust dataset spanning 4 years (2021-2024) to calculate key financial metrics, identify high-performing product categories and states, and uncover actionable insights to optimize inventory and sales strategy.
 
 
-Detailed Insight:
+# Detailed Insight:
+
 	Profit Concentration :- Technology and Office Supplies drive 93% of the total project profit, making them the primary focus for future investment and strategic growth. Technology leads marginally, but Office Supplies provides more consistent, high-volume transactions.
 
 	Sales Volume vs. Profitability :-	The Phones sub-category, while generating the highest gross sales volume (~$279.5K), contributes a lower overall profit margin than certain other Technology components. This suggests the potential for optimization through negotiating supplier costs or adjusting pricing on accessories.
