@@ -25,7 +25,7 @@ Total Profit	             $247,961.52        	The cumulative net profit achieved
 Overall Profit Margin	     12.86%	              Calculated as (Total Profit / Total Sales), representing the overall profitability of the business operations.<br />
 
 # Repository Structure
-	Data : "https://github.com/Ansh6345/Global-Sales-Profitability-Analysis-A-4-Year-Business-Deep-Dive-2021-2024-/blob/main/Data.xlsx" <br />
+	Data : https://github.com/Ansh6345/Global-Sales-Profitability-Analysis-A-4-Year-Business-Deep-Dive-2021-2024-/blob/main/Data.xlsx <br />
 	Dashboard : https://github.com/Ansh6345/Global-Sales-Profitability-Analysis-A-4-Year-Business-Deep-Dive-2021-2024-/blob/main/Sales%20and%20Profit%20Data.xlsx <br />
 	Images : <img width="1207" height="601" alt="Dashboard Image" src="https://github.com/user-attachments/assets/7bf1f512-8adc-4690-8b1f-e116aa7ffba0" /> <br />
 
