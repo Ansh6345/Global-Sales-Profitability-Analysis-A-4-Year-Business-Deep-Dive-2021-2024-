@@ -20,13 +20,13 @@ To leverage a robust dataset spanning 4 years (2021-2024) to calculate key finan
 # Key Financial Metrics (The Results)
 These are the most impactful numbers derived from your data.
   Metric    	                  Value            	                        Insight
-Total Sales	               $1,928,887.86	      The total gross revenue generated over the project's 4-year period.
-Total Profit	             $247,961.52        	The cumulative net profit achieved across all transactions.
+Total Sales	               $1,928,887.86	      The total gross revenue generated over the project's 4-year period.<br />
+Total Profit	             $247,961.52        	The cumulative net profit achieved across all transactions.<br />
 Overall Profit Margin	     12.86%	              Calculated as (Total Profit / Total Sales), representing the overall profitability of the business operations.
 
 # Repository Structure
-	Data : "https://github.com/Ansh6345/Global-Sales-Profitability-Analysis-A-4-Year-Business-Deep-Dive-2021-2024-/blob/main/Data.xlsx"
-	Dashboard : Excel file
+	Data : "https://github.com/Ansh6345/Global-Sales-Profitability-Analysis-A-4-Year-Business-Deep-Dive-2021-2024-/blob/main/Data.xlsx"<br />
+	Dashboard : https://github.com/Ansh6345/Global-Sales-Profitability-Analysis-A-4-Year-Business-Deep-Dive-2021-2024-/blob/main/Sales%20and%20Profit%20Data.xlsx
 	Images : Contains screenshots of the dashboard for easy preview.
 
 # Feedback & Collaboration3
